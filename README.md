@@ -1,8 +1,8 @@
 # 🎯 Hack The Date
 
 <div align="center">
-
-![Hack The Date Logo](client/public/images/hack-the-date-social.png)
+  
+![logops1](https://github.com/user-attachments/assets/3398f907-a6ba-45db-811a-625d8b05dce1)
 
 **A Global Cybersecurity Events Platform**  
 *Making cybersecurity events accessible to everyone*
@@ -33,8 +33,8 @@ From Capture The Flag (CTF) competitions to conferences, workshops, and meetups,
 
 ## How You Can Help
 
-Our platform is powered by the community — that means **you**!  
-Found a cool event? Organizing a conference or workshop? Help others by adding your event to Hack The Date — it’s **quick, simple, and free**!
+Our platform is powered by the community that means **you**!  
+Found a cool event? Organizing a conference or workshop? Help others by adding your event to Hack The Date it’s **quick, simple, and free**!
 
 Submit your event here:  
 [https://hackthedate.com/submit](https://hackthedate.com/submit)
