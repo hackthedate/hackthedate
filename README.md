@@ -15,7 +15,7 @@
 
 ## Welcome to Hack The Date!
 
-Are you passionate about cybersecurity? Whether you’re a pro, a student, or just starting out, **Hack The Date** is here to help you find and participate in the best cybersecurity events worldwide — all in one place.
+Are you passionate about cybersecurity? Whether you’re a pro, a student, or just starting out, **Hack The Date** is here to help you find and participate in the best cybersecurity events worldwide all in one place.
 
 From Capture The Flag (CTF) competitions to conferences, workshops, and meetups, we gather all the key events so you don’t miss a thing.
 
